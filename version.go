@@ -1,0 +1,3 @@
+package sqidsd
+
+var Version = "v0.0.0"
