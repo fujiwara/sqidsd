@@ -10,6 +10,14 @@ sqidsd is a daemon that encodes and decodes [Sqids](https://sqids.org/) IDs via 
 $ go install github.com/fujiwara/sqidsd/cmd/sqidsd@latest
 ```
 
+### mise
+
+Install with [mise](https://mise.jdx.dev/) using the GitHub backend:
+
+```console
+$ mise use -g github:fujiwara/sqidsd
+```
+
 ### Binary releases
 
 Download from [GitHub Releases](https://github.com/fujiwara/sqidsd/releases).
